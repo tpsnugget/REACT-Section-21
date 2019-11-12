@@ -1,0 +1,12 @@
+.NavBar {
+   display: flex;
+   margin: auto;
+   padding: 20px;
+   background-color: darkgray;
+}
+
+.NavBar-link {
+   display: flex;
+   margin: auto;
+   padding: 20px;
+}
