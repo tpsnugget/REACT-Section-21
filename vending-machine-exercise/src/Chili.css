@@ -1,0 +1,20 @@
+.Chili-container {
+   display: flex;
+   width: 500px;
+   height: 250px;
+   background-color: white;
+   align-items: center;
+   justify-content: center;
+   position: absolute;
+   top: 300px;
+   left: 300px;
+}
+
+.Chili-title {
+   color: black;
+}
+
+.Chili-img {
+   width: 25%;
+   padding-left: 75px;
+}

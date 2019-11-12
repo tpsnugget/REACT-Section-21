@@ -1,0 +1,20 @@
+.Pizza-container {
+   display: flex;
+   width: 500px;
+   height: 250px;
+   background-color: white;
+   align-items: center;
+   justify-content: center;
+   position: absolute;
+   top: 500px;
+   left: 400px;
+}
+
+.Pizza-title {
+   color: black;
+}
+
+.Pizza-img {
+   width: 25%;
+   padding-left: 50px;
+}
